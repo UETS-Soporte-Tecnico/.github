@@ -1,14 +1,13 @@
 # 🏫 Unidad Educativa Técnico Salesiano (UETS)
 ## 🛠️ Módulo Formativo: Soporte Técnico — 3° Bachillerato Técnico
 
-Bienvenido a la organización oficial de GitHub del área de **Soporte Técnico** de la Unidad Educativa Técnico Salesiano. Aquí encontrarás los repositorios de trabajo, kits de inicio, guías y el plan curricular para el año lectivo 2026-2027.
+Bienvenido a la organización oficial de GitHub del área de **Soporte Técnico** de la Unidad Educativa Técnico Salesiano. Aquí encontrarás los repositorios de trabajo, kits de inicio y guías para el desarrollo de actividades del año lectivo 2026-2027.
 
 ---
 
-## 📌 Repositorios Destacados
+## 📌 Repositorios y Recursos Públicos
 
 - 🚀 **[Starter-kit](https://github.com/UETS-Soporte-Tecnico/Starter-kit):** Repositorio plantilla oficial para que los estudiantes clonen, configuren sus proyectos en Wokwi / Arduino IDE 2.x y entreguen sus actividades de laboratorio.
-- 🧠 **[Second-Brain-ST-26-27](https://github.com/UETS-Soporte-Tecnico/Second-Brain-ST-26-27):** Repositorio privado de gestión curricular en estándar OKF v0.2 (PCA, Dosificaciones, Unidades PUT 1-3 y Evaluaciones).
 
 ---
 
